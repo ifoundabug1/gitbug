@@ -1,4 +1,4 @@
-# Hey github, I founded a bug!
+# Hey github, I found a bug!
 <br>
 https://github.com/ifoundabug1/gitbug
 <br>
